@@ -1,0 +1,41 @@
+@import "_mixin.scss"; 
+
+//font family
+$ch-font: "Arial","Helvetica","Microsoft JhengHei","微軟正黑體,sans-serif";
+
+//font--------------------
+$body-font: $ch-font;
+
+$font-size-base: 1rem !default; //16px
+$font-size-lg: $font-size-base * 1.125 !default; //18px
+$font-size-sm: $font-size-base * .875 !default; //14px
+
+@include md-width(){
+    $font-size-base: 18px; 
+    $font-size-lg: 20px; 
+    $font-size-sm: 14px; 
+}
+
+
+//color---------------------
+$main-color:#0089D1;
+$second-color:#02B6B3;
+
+$third-color:#58A4EF; // icon、a
+$fourth-color: #D1EEFF; // button
+$fifth-color:#FCFCFC;
+$six-color:#ECF8FF;
+
+$white:#FFFFFF;
+$black:#333333; 
+
+$main-dark:#666666; // content
+$second-dark:#7C7C7C; // footer
+$third-dark:#D3D3D3; // border
+$fourth-dark:#00000038; // shadow
+$fifth-dark:#999999;
+
+
+//param
+$container-width: 350px;
+$border-radius: 50px;

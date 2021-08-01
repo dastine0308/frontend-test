@@ -1,0 +1,28 @@
+<svg id="Badges" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="75" viewBox="0 0 75 75">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.296" y1="-0.06" x2="0.552" y2="0.928" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#006884"/>
+      <stop offset="1" stop-color="#8ad1d0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.077" y1="0.161" x2="0.917" y2="0.865" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#24bbb6"/>
+      <stop offset="1" stop-color="#dbe692"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="1.051" x2="0.5" y2="-0.046" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcc072"/>
+      <stop offset="1" stop-color="#f58a5b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.109" y1="1.176" x2="0.905" y2="0.115" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#712b8f"/>
+      <stop offset="1" stop-color="#ea1d27"/>
+    </linearGradient>
+  </defs>
+  <g id="组_1" data-name="组 1" transform="translate(-288.153 -11.634)">
+    <circle id="椭圆_1" data-name="椭圆 1" cx="37.5" cy="37.5" r="37.5" transform="translate(288.153 11.634)" fill="#fff"/>
+    <path id="路径_1" data-name="路径 1" d="M310.4,40.834V22.427a1.976,1.976,0,0,1,1.81-1.945,3.1,3.1,0,0,1,1.662.465L347.625,39.4a1.492,1.492,0,0,1,0,2.87L313.871,60.723a3.106,3.106,0,0,1-1.662.463,1.974,1.974,0,0,1-1.81-1.943Z" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <path id="路径_2" data-name="路径 2" d="M332.326,40.955,311.89,20.519a1.419,1.419,0,0,1,.319-.037,3.1,3.1,0,0,1,1.662.465l24.868,13.594Z" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+    <path id="路径_3" data-name="路径 3" d="M338.584,47.213l-6.258-6.258,6.413-6.414,8.886,4.858a1.492,1.492,0,0,1,0,2.87Z" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+    <path id="路径_4" data-name="路径 4" d="M312.1,61.182l.018-.019,20.209-20.208,6.258,6.258-24.713,13.51a3.106,3.106,0,0,1-1.662.463C312.172,61.186,312.136,61.184,312.1,61.182Z" fill-rule="evenodd" fill="url(#linear-gradient-4)"/>
+    <text id="Google_Play" data-name="Google Play" transform="translate(299.752 70.283)" fill="#606060" font-size="10.754" font-family="MyriadPro-Regular, Myriad Pro"><tspan x="0" y="0">Google Play</tspan></text>
+  </g>
+</svg>

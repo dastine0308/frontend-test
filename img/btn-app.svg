@@ -1,0 +1,9 @@
+<svg id="组件_2_2" data-name="组件 2 – 2" xmlns="http://www.w3.org/2000/svg" width="253.992" height="69" viewBox="0 0 253.992 69">
+  <rect id="矩形_1" data-name="矩形 1" width="253.992" height="69" rx="34.5" fill="#fff"/>
+  <g id="组_4" data-name="组 4" transform="translate(-14.754 -116.81)">
+    <path id="路径_7" data-name="路径 7" d="M72.76,152.432a10.009,10.009,0,0,1,4.77-8.4,10.254,10.254,0,0,0-8.08-4.37c-3.4-.356-6.7,2.037-8.424,2.037-1.765,0-4.437-2-7.307-1.943a10.765,10.765,0,0,0-9.054,5.523c-3.914,6.778-1,16.739,2.755,22.221,1.877,2.682,4.07,5.679,6.94,5.572,2.806-.117,3.854-1.789,7.244-1.789,3.359,0,4.344,1.789,7.271,1.721,3.013-.049,4.908-2.7,6.718-5.4a22.118,22.118,0,0,0,3.076-6.26,9.676,9.676,0,0,1-5.909-8.9" fill="#d9d9d9"/>
+    <path id="路径_8" data-name="路径 8" d="M67.229,136.056a9.841,9.841,0,0,0,2.255-7.066,10.031,10.031,0,0,0-6.49,3.36,9.374,9.374,0,0,0-2.317,6.8,8.3,8.3,0,0,0,6.552-3.1" fill="#d9d9d9"/>
+  </g>
+  <text id="Available_on_the" data-name="Available on the" transform="translate(84.361 22.359)" fill="#606060" font-size="14.666" font-family="MyriadPro-Regular, Myriad Pro"><tspan x="0" y="0">Available on the</tspan></text>
+  <text id="App_Store" data-name="App Store" transform="translate(82.666 55.184)" fill="#606060" font-size="34.829" font-family="MyriadPro-Regular, Myriad Pro"><tspan x="0" y="0">App Store</tspan></text>
+</svg>

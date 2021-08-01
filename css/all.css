@@ -1,0 +1,208 @@
+@charset "UTF-8";
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+* {
+  font-family: "Arial", "Helvetica", "Microsoft JhengHei", "微軟正黑體,sans-serif";
+  font-size: 16px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: #666666;
+}
+
+@media all and (min-width: 768px) {
+  * {
+    font-size: 18px;
+  }
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  overflow-x: hidden;
+  width: 100vw;
+}
+
+.d-grid {
+  display: -ms-grid;
+  display: grid;
+}
+
+.d-flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.d-inline {
+  display: inline-block;
+}
+
+.d-block {
+  display: block;
+}
+
+.d-none {
+  display: none;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 800;
+  color: #0089D1;
+}
+
+@media all and (min-width: 768px) {
+  .title {
+    font-size: 36px;
+  }
+}
+
+@media all and (min-width: 1023px) {
+  .title {
+    font-size: 69px;
+  }
+}
+
+.title1 {
+  font-size: 16px;
+  font-weight: 400;
+  color: #333333;
+}
+
+@media all and (min-width: 768px) {
+  .title1 {
+    font-size: 30px;
+  }
+}
+
+@media all and (min-width: 1023px) {
+  .title1 {
+    font-size: 45px;
+  }
+}
+
+.title2 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #333333;
+  letter-spacing: 2px;
+}
+
+@media all and (min-width: 768px) {
+  .title2 {
+    font-size: 24px;
+    font-weight: 400;
+  }
+}
+
+@media all and (min-width: 1400px) {
+  .title2 {
+    font-size: 30px;
+  }
+}
+
+.title3 {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 20px;
+}
+
+@media all and (min-width: 768px) {
+  .title3 {
+    font-size: 22px;
+    line-height: 26px;
+  }
+}
+
+@media all and (min-width: 1400px) {
+  .title3 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  /*不使用width:100% 是因避免圖片解析度不好，隨父元素被放大時會糊掉*/
+  height: auto;
+}
+
+li {
+  list-style: none;
+}
+
+.line {
+  width: 50px;
+  height: 2px;
+}
+
+.nav-media a {
+  width: 30px;
+  height: 30px;
+}
+/*# sourceMappingURL=all.css.map */

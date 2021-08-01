@@ -1,0 +1,26 @@
+@import "utilis/_mixin.scss"; //RWD斷點
+
+a{
+    text-decoration:none;
+}
+
+img{
+    max-width:100%; /*不使用width:100% 是因避免圖片解析度不好，隨父元素被放大時會糊掉*/
+    height:auto;
+}
+
+li {
+    list-style: none;
+}
+
+.line {
+    width: 50px;
+    height: 2px;
+}
+
+.nav-media {
+    a {
+        width: 30px;
+        height: 30px;
+    }
+}
